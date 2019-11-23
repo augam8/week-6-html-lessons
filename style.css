@@ -1,0 +1,38 @@
+<!doctype html>
+
+<html>
+<head>
+
+<style>
+        body {
+            background-color: darkseagreen;
+            font-family: serif;
+            font-size: 100%;
+            padding-left: 50px;
+        }
+        h1 {
+            color:lightseagreen;
+            text-align:center;
+        }
+        #first-paragraph {
+            color:brown;
+            -ms-text-justify: ;
+        }
+        .section-heading {
+            text-decoration:underline;
+        }
+        .section-heading:hover {
+            color:gold;
+        }
+        h2 {
+            color:powderblue;
+        }
+        h3 {
+            color:saddlebrown
+        }
+
+
+    </style>
+
+
+</html>
